@@ -25,4 +25,4 @@ OR Install
 
 2. Download and install [http://skyexplorer.googlecode.com/files/skyexplorer_2ndEd_1.0.sis skyexplorer.sis]
 
-3. Download and install pyemail.SIS (optional: for sending email) 
+3. Download and install [http://skyexplorer.googlecode.com/files/pyemail_1.0.SIS pyemail.SIS] (optional: for sending email) 
