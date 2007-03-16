@@ -23,6 +23,6 @@ OR Install
 OR Install
 [http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEd.SIS?modtime=1173713363&big_mirror=0 PythonForS60_1_3_19_2ndEd.SIS]  for others 2nd Edition phone. 
 
-2. Download and install skyexplorer.sis
+2. Download and install [http://skyexplorer.googlecode.com/files/skyexplorer_2ndEd_1.0.sis skyexplorer.sis]
 
 3. Download and install pyemail.SIS (optional: for sending email) 
