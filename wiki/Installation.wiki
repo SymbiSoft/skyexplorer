@@ -1,0 +1,27 @@
+#summary Requirements and Installation steps.
+#labels Requirements,Installation
+
+= Introduction =
+
+*Requirements*
+
+As of now, the provided installation SIS is only for Symbian S60 2nd edition phone.
+You can check whether your phone is supported at http://en.wikipedia.org/wiki/Nokia_S60_and_Symbian_OS
+and also to know which Python runtime version to download.
+
+
+= Details =
+
+*Installation*
+
+* Download and install the latest Python runtime at Sourceforge
+There are 3 different Python runtime versions provided for 2nd edition phone.
+Install
+[PythonForS60_1_3_19_2ndEdFP3.SIS http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEdFP3.SIS?modtime=1173713363&big_mirror=0]  for 2nd Edition Feature Pack 3 phone.
+OR Install
+[PythonForS60_1_3_19_2ndEdFP2.SIS http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEdFP2.SIS?modtime=1173713363&big_mirror=0]  for 2nd Edition Feature Pack 2 phone.
+OR Install
+[PythonForS60_1_3_19_2ndEd.SIS http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEd.SIS?modtime=1173713363&big_mirror=0]  for others 2nd Edition phone. 
+
+* Download and install skyexplorer.sis
+* Download and install pyemail.SIS (optional: for sending email) 
