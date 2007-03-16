@@ -12,11 +12,11 @@ and also to know which Python runtime version to download.
 
 1. Download and install the latest Python runtime at Sourceforge
 
-There are 3 different Python runtime versions provided for 2nd edition phone. [BR]
+There are 3 different Python runtime versions provided for 2nd edition phone. [[BR]]
 Install
-[http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEdFP3.SIS?modtime=1173713363&big_mirror=0 PythonForS60_1_3_19_2ndEdFP3.SIS]  for 2nd Edition Feature Pack 3 phone.
+[http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEdFP3.SIS?modtime=1173713363&big_mirror=0 PythonForS60_1_3_19_2ndEdFP3.SIS]  for 2nd Edition Feature Pack 3 phone. [[BR]]
 OR Install
-[http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEdFP2.SIS?modtime=1173713363&big_mirror=0 PythonForS60_1_3_19_2ndEdFP2.SIS]  for 2nd Edition Feature Pack 2 phone.
+[http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEdFP2.SIS?modtime=1173713363&big_mirror=0 PythonForS60_1_3_19_2ndEdFP2.SIS]  for 2nd Edition Feature Pack 2 phone. [[BR]]
 OR Install
 [http://downloads.sourceforge.net/pys60/PythonForS60_1_3_19_2ndEd.SIS?modtime=1173713363&big_mirror=0 PythonForS60_1_3_19_2ndEd.SIS]  for others 2nd Edition phone. 
 
