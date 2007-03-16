@@ -1,5 +1,5 @@
 #summary Requirements and Installation steps.
-#labels Requirements,Installation
+#labels Requirements,Installation,Phase-Deploy,Featured
 
 *Requirements*
 
